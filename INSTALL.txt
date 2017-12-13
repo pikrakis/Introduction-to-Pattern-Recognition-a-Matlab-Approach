@@ -1,0 +1,16 @@
+"Introduction to Pattern Recognition: A MATLAB Approach"
+S. Theodoridis, A. Pikrakis, K. Koutroumbas, D. Cavouras
+
+INSTALLATION INSTRUCTIONS 
+for the software accompanying the book
+---------------------------------------
+
+A) Unzip the provided file in a folder of your choice.
+
+B) Seven folders will be created, one per chapter.
+
+C) In every chapter, there exists a "mfiles" folder and a "examples" folder. In chapters 4 and 5 there also exists a "data" folder.
+Each "mfiles" folder contains the functions (m-files) of the respective chapter. Similarly, each "examples" folder contains the code of the examples of the respective chapter, so that the reader does not need to re-type the code printed in the pages of the book. For the sake of consistency, the examples in each "examples" folder follow the numbering scheme of the book.
+
+D) To complete the installation, Open Matlab, then choose "File"->"Set Path"->"Add with Subfolders" and select the root path of your installation. As a result, all subfolders will be added to Matlab's path. As a last step, move all added folders to the bottom of Matlab's path.
+These steps are necessary because there exist cross-dependencies among chapters.
